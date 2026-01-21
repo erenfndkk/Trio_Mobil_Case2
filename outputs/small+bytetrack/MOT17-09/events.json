@@ -1,0 +1,178 @@
+{
+  "summary": {
+    "total_in": 3,
+    "total_out": 11,
+    "net": -8,
+    "total_crossings": 14,
+    "unique_tracks": 14
+  },
+  "events": [
+    {
+      "frame": 70,
+      "track_id": 1,
+      "direction": "OUT",
+      "position": [
+        811.6637573242188,
+        565.612060546875
+      ],
+      "count_in": 0,
+      "count_out": 1
+    },
+    {
+      "frame": 171,
+      "track_id": 3,
+      "direction": "IN",
+      "position": [
+        783.0675659179688,
+        614.9579467773438
+      ],
+      "count_in": 1,
+      "count_out": 1
+    },
+    {
+      "frame": 185,
+      "track_id": 49,
+      "direction": "OUT",
+      "position": [
+        806.5487060546875,
+        574.4306640625
+      ],
+      "count_in": 1,
+      "count_out": 2
+    },
+    {
+      "frame": 198,
+      "track_id": 7,
+      "direction": "IN",
+      "position": [
+        799.318115234375,
+        537.7526245117188
+      ],
+      "count_in": 2,
+      "count_out": 2
+    },
+    {
+      "frame": 204,
+      "track_id": 54,
+      "direction": "OUT",
+      "position": [
+        940.1937255859375,
+        640.7225952148438
+      ],
+      "count_in": 2,
+      "count_out": 3
+    },
+    {
+      "frame": 213,
+      "track_id": 89,
+      "direction": "OUT",
+      "position": [
+        801.8714599609375,
+        572.430908203125
+      ],
+      "count_in": 2,
+      "count_out": 4
+    },
+    {
+      "frame": 222,
+      "track_id": 31,
+      "direction": "OUT",
+      "position": [
+        807.1048583984375,
+        568.6656494140625
+      ],
+      "count_in": 2,
+      "count_out": 5
+    },
+    {
+      "frame": 235,
+      "track_id": 72,
+      "direction": "OUT",
+      "position": [
+        813.092529296875,
+        569.63623046875
+      ],
+      "count_in": 2,
+      "count_out": 6
+    },
+    {
+      "frame": 246,
+      "track_id": 81,
+      "direction": "OUT",
+      "position": [
+        805.1710205078125,
+        610.9029541015625
+      ],
+      "count_in": 2,
+      "count_out": 7
+    },
+    {
+      "frame": 256,
+      "track_id": 92,
+      "direction": "OUT",
+      "position": [
+        801.93359375,
+        588.0997314453125
+      ],
+      "count_in": 2,
+      "count_out": 8
+    },
+    {
+      "frame": 407,
+      "track_id": 159,
+      "direction": "OUT",
+      "position": [
+        804.31396484375,
+        573.506103515625
+      ],
+      "count_in": 2,
+      "count_out": 9
+    },
+    {
+      "frame": 423,
+      "track_id": 143,
+      "direction": "IN",
+      "position": [
+        798.077392578125,
+        587.8221435546875
+      ],
+      "count_in": 3,
+      "count_out": 9
+    },
+    {
+      "frame": 516,
+      "track_id": 210,
+      "direction": "OUT",
+      "position": [
+        802.2623901367188,
+        570.0894165039062
+      ],
+      "count_in": 3,
+      "count_out": 10
+    },
+    {
+      "frame": 521,
+      "track_id": 223,
+      "direction": "OUT",
+      "position": [
+        802.2772216796875,
+        577.5262451171875
+      ],
+      "count_in": 3,
+      "count_out": 11
+    }
+  ],
+  "config": {
+    "line": [
+      800,
+      0,
+      800,
+      1080
+    ],
+    "description": "Vertical line slightly left of center (x=700)",
+    "direction": "left->right: IN, right->left: OUT"
+  },
+  "tracker": "bytetrack",
+  "stitching_enabled": false,
+  "stitching_stats": null
+}

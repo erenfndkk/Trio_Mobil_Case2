@@ -1,0 +1,10 @@
+# Temel Görüntü İşleme ve Derin Öğrenme
+ultralytics>=8.3.0       # YOLO11 modelleri ve BoT-SORT/ByteTrack algoritmaları için
+opencv-python            # Video işleme, çizim ve görselleştirme işlemleri için
+
+# Veri Analizi ve Matematiksel İşlemler
+numpy>=1.23.0            # Vektörel çarpım ve geometrik hesaplamalar için
+pandas                   # Olay loglarını CSV formatında dışa aktarmak için
+
+# Yapılandırma ve Dosya Yönetimi
+PyYAML                   # .yaml uzantılı konfigürasyon dosyalarını okumak için

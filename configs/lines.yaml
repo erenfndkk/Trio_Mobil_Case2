@@ -1,0 +1,23 @@
+sequences:
+  MOT17-04:
+    # Yatay çizgi, ekranı tam ortadan böler (1080 / 2 = 540)
+    line: [0, 540, 1920, 540]
+    description: "Horizontal line centered vertically (y=540)"
+    direction: "bottom->top: IN, top->bottom: OUT"
+
+  MOT17-09:
+    # Dikey çizgi, ekran ortasının (960) biraz solunda (x=700)
+    line: [800, 0, 800, 1080]
+    description: "Vertical line slightly left of center (x=700)"
+    direction: "left->right: IN, right->left: OUT"
+
+  MOT17-13:
+    # Orijinal dikey çizgi yapısı korunmuştur
+    line: [500, 0, 500, 1080]
+    description: "Vertical line at entrance area (x=500)"
+    direction: "left->right: IN, right->left: OUT"
+
+# Buffer settings to prevent double counting
+buffer:
+  min_frames_between_crossings: 30  # Minimum frames before same ID can cross again
+  position_history_length: 10  # Number of previous positions to keep per track

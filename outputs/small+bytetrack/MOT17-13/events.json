@@ -1,0 +1,376 @@
+{
+  "summary": {
+    "total_in": 30,
+    "total_out": 2,
+    "net": 28,
+    "total_crossings": 32,
+    "unique_tracks": 31
+  },
+  "events": [
+    {
+      "frame": 13,
+      "track_id": 6,
+      "direction": "IN",
+      "position": [
+        499.95660400390625,
+        588.6536865234375
+      ],
+      "count_in": 1,
+      "count_out": 0
+    },
+    {
+      "frame": 35,
+      "track_id": 7,
+      "direction": "IN",
+      "position": [
+        497.816162109375,
+        614.7716674804688
+      ],
+      "count_in": 2,
+      "count_out": 0
+    },
+    {
+      "frame": 53,
+      "track_id": 26,
+      "direction": "IN",
+      "position": [
+        494.29510498046875,
+        582.2838134765625
+      ],
+      "count_in": 3,
+      "count_out": 0
+    },
+    {
+      "frame": 61,
+      "track_id": 38,
+      "direction": "IN",
+      "position": [
+        497.598388671875,
+        590.3614501953125
+      ],
+      "count_in": 4,
+      "count_out": 0
+    },
+    {
+      "frame": 77,
+      "track_id": 29,
+      "direction": "IN",
+      "position": [
+        496.42962646484375,
+        594.87451171875
+      ],
+      "count_in": 5,
+      "count_out": 0
+    },
+    {
+      "frame": 82,
+      "track_id": 42,
+      "direction": "IN",
+      "position": [
+        497.2568054199219,
+        602.5203247070312
+      ],
+      "count_in": 6,
+      "count_out": 0
+    },
+    {
+      "frame": 91,
+      "track_id": 40,
+      "direction": "IN",
+      "position": [
+        492.5091552734375,
+        615.9176025390625
+      ],
+      "count_in": 7,
+      "count_out": 0
+    },
+    {
+      "frame": 95,
+      "track_id": 14,
+      "direction": "IN",
+      "position": [
+        491.90435791015625,
+        608.2219848632812
+      ],
+      "count_in": 8,
+      "count_out": 0
+    },
+    {
+      "frame": 126,
+      "track_id": 80,
+      "direction": "IN",
+      "position": [
+        497.6482849121094,
+        557.52392578125
+      ],
+      "count_in": 9,
+      "count_out": 0
+    },
+    {
+      "frame": 142,
+      "track_id": 65,
+      "direction": "IN",
+      "position": [
+        496.391845703125,
+        565.0975341796875
+      ],
+      "count_in": 10,
+      "count_out": 0
+    },
+    {
+      "frame": 429,
+      "track_id": 294,
+      "direction": "IN",
+      "position": [
+        459.0268859863281,
+        873.95361328125
+      ],
+      "count_in": 11,
+      "count_out": 0
+    },
+    {
+      "frame": 433,
+      "track_id": 325,
+      "direction": "IN",
+      "position": [
+        462.29998779296875,
+        977.5179443359375
+      ],
+      "count_in": 12,
+      "count_out": 0
+    },
+    {
+      "frame": 434,
+      "track_id": 309,
+      "direction": "IN",
+      "position": [
+        481.472900390625,
+        904.35546875
+      ],
+      "count_in": 13,
+      "count_out": 0
+    },
+    {
+      "frame": 435,
+      "track_id": 169,
+      "direction": "IN",
+      "position": [
+        486.8044738769531,
+        1019.7200317382812
+      ],
+      "count_in": 14,
+      "count_out": 0
+    },
+    {
+      "frame": 446,
+      "track_id": 302,
+      "direction": "IN",
+      "position": [
+        476.5686950683594,
+        630.953369140625
+      ],
+      "count_in": 15,
+      "count_out": 0
+    },
+    {
+      "frame": 453,
+      "track_id": 310,
+      "direction": "IN",
+      "position": [
+        478.85028076171875,
+        645.1453247070312
+      ],
+      "count_in": 16,
+      "count_out": 0
+    },
+    {
+      "frame": 454,
+      "track_id": 295,
+      "direction": "IN",
+      "position": [
+        493.7850646972656,
+        641.9728393554688
+      ],
+      "count_in": 17,
+      "count_out": 0
+    },
+    {
+      "frame": 455,
+      "track_id": 346,
+      "direction": "IN",
+      "position": [
+        389.0634460449219,
+        650.884765625
+      ],
+      "count_in": 18,
+      "count_out": 0
+    },
+    {
+      "frame": 456,
+      "track_id": 336,
+      "direction": "IN",
+      "position": [
+        499.9718322753906,
+        630.133544921875
+      ],
+      "count_in": 19,
+      "count_out": 0
+    },
+    {
+      "frame": 462,
+      "track_id": 335,
+      "direction": "IN",
+      "position": [
+        483.18292236328125,
+        899.9357299804688
+      ],
+      "count_in": 20,
+      "count_out": 0
+    },
+    {
+      "frame": 466,
+      "track_id": 353,
+      "direction": "IN",
+      "position": [
+        496.06365966796875,
+        779.6021728515625
+      ],
+      "count_in": 21,
+      "count_out": 0
+    },
+    {
+      "frame": 469,
+      "track_id": 319,
+      "direction": "IN",
+      "position": [
+        471.9554138183594,
+        820.6649169921875
+      ],
+      "count_in": 22,
+      "count_out": 0
+    },
+    {
+      "frame": 487,
+      "track_id": 356,
+      "direction": "IN",
+      "position": [
+        492.293212890625,
+        983.13134765625
+      ],
+      "count_in": 23,
+      "count_out": 0
+    },
+    {
+      "frame": 511,
+      "track_id": 367,
+      "direction": "IN",
+      "position": [
+        481.59613037109375,
+        870.8826904296875
+      ],
+      "count_in": 24,
+      "count_out": 0
+    },
+    {
+      "frame": 512,
+      "track_id": 369,
+      "direction": "IN",
+      "position": [
+        487.5269775390625,
+        910.3309326171875
+      ],
+      "count_in": 25,
+      "count_out": 0
+    },
+    {
+      "frame": 545,
+      "track_id": 374,
+      "direction": "IN",
+      "position": [
+        484.8216247558594,
+        868.9583129882812
+      ],
+      "count_in": 26,
+      "count_out": 0
+    },
+    {
+      "frame": 548,
+      "track_id": 375,
+      "direction": "IN",
+      "position": [
+        469.4232177734375,
+        909.08349609375
+      ],
+      "count_in": 27,
+      "count_out": 0
+    },
+    {
+      "frame": 567,
+      "track_id": 382,
+      "direction": "IN",
+      "position": [
+        486.98443603515625,
+        927.3939208984375
+      ],
+      "count_in": 28,
+      "count_out": 0
+    },
+    {
+      "frame": 568,
+      "track_id": 377,
+      "direction": "IN",
+      "position": [
+        495.7425537109375,
+        655.3040771484375
+      ],
+      "count_in": 29,
+      "count_out": 0
+    },
+    {
+      "frame": 591,
+      "track_id": 396,
+      "direction": "IN",
+      "position": [
+        369.75732421875,
+        580.92724609375
+      ],
+      "count_in": 30,
+      "count_out": 0
+    },
+    {
+      "frame": 677,
+      "track_id": 396,
+      "direction": "OUT",
+      "position": [
+        560.70947265625,
+        634.4642333984375
+      ],
+      "count_in": 30,
+      "count_out": 1
+    },
+    {
+      "frame": 688,
+      "track_id": 415,
+      "direction": "OUT",
+      "position": [
+        502.34515380859375,
+        548.500732421875
+      ],
+      "count_in": 30,
+      "count_out": 2
+    }
+  ],
+  "config": {
+    "line": [
+      500,
+      0,
+      500,
+      1080
+    ],
+    "description": "Vertical line at entrance area (x=500)",
+    "direction": "left->right: IN, right->left: OUT"
+  },
+  "tracker": "bytetrack",
+  "stitching_enabled": false,
+  "stitching_stats": null
+}

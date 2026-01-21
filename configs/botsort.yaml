@@ -1,0 +1,28 @@
+# BoT-SORT tracker configuration for better Re-ID
+# This config helps with occlusion and ID switching issues
+
+tracker_type: botsort
+
+# Matching thresholds
+match_thresh: 0.8          # Higher = stricter matching (reduce false associations)
+track_high_thresh: 0.5     # Detection confidence for high-quality tracks
+track_low_thresh: 0.1      # Detection confidence for low-quality tracks
+new_track_thresh: 0.6      # Confidence threshold to start new track
+
+# Track management
+track_buffer: 60           # Frames to keep lost tracks (helps with occlusion)
+                          # Higher value = better recovery after occlusion
+min_box_area: 10          # Minimum bbox area to consider
+
+# Motion and appearance
+lambda_: 0.985            # ReID feature decay (higher = remember longer)
+with_reid: true           # Enable ReID features
+proximity_thresh: 0.5     # Distance threshold for appearance matching
+appearance_thresh: 0.25   # Appearance similarity threshold (lower = stricter)
+
+# Kalman filter for motion prediction
+std_weight_position: 0.05
+std_weight_velocity: 0.00625
+
+# GMC (Global Motion Compensation) - helps with camera movement
+gmc_method: sparseOptFlow  # Options: orb, sift, ecc, sparseOptFlow

@@ -1,0 +1,55 @@
+{
+  "combination": "small+bytetrack",
+  "tracker": "bytetrack",
+  "stitching": false,
+  "results": [
+    {
+      "sequence": "MOT17-04",
+      "tracker": "bytetrack",
+      "stitching_enabled": false,
+      "summary": {
+        "total_in": 8,
+        "total_out": 5,
+        "net": 3,
+        "total_crossings": 13,
+        "unique_tracks": 13
+      },
+      "num_frames": 1050,
+      "output_path": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-04",
+      "stitching_stats": null,
+      "tracks_file": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-04\\tracks.txt"
+    },
+    {
+      "sequence": "MOT17-09",
+      "tracker": "bytetrack",
+      "stitching_enabled": false,
+      "summary": {
+        "total_in": 3,
+        "total_out": 11,
+        "net": -8,
+        "total_crossings": 14,
+        "unique_tracks": 14
+      },
+      "num_frames": 525,
+      "output_path": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-09",
+      "stitching_stats": null,
+      "tracks_file": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-09\\tracks.txt"
+    },
+    {
+      "sequence": "MOT17-13",
+      "tracker": "bytetrack",
+      "stitching_enabled": false,
+      "summary": {
+        "total_in": 30,
+        "total_out": 2,
+        "net": 28,
+        "total_crossings": 32,
+        "unique_tracks": 31
+      },
+      "num_frames": 750,
+      "output_path": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-13",
+      "stitching_stats": null,
+      "tracks_file": "C:\\Users\\findik\\Desktop\\Trio_Mobil_case2_birle\u015fik - Kopya\\outputs\\25_fps\\small+bytetrack\\MOT17-13\\tracks.txt"
+    }
+  ]
+}
