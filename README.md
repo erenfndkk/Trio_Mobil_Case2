@@ -1,7 +1,5 @@
-# Trio_Mobil_Case2
-
-
-# Trio Mobil Study Case 2 - Hazır Modellerle Video Analizi Takip (Tracking) + Olay Mantığı (Counting) Yaklaşım 
+#  Hazır Modellerle Video Analizi Takip (Tracking) + Olay Mantığı (Counting) Yaklaşım
+ 
 
 MOT17 açık veri seti üzerinde hazır derin öğrenme modelleri kullanarak nesne takibi (tracking) ve belirlenen sanal çizgiler üzerinden kişi sayımı (counting) gerçekleştirmek amacıyla geliştirilmiştir1. Proje, özellikle kalabalık sahnelerdeki örtüşme (occlusion) ve ID değişimi (ID switch) gibi zorlukları aşmaya odaklanan post-processing mekanizmaları içerir.
 
